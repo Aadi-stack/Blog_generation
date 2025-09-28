@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+ipykernal
+langchain_groq
+langchain_community
+pypdf
+faiss-cpu
+structlog
+PyMuPdf
+-e . 

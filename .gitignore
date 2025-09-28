@@ -1,0 +1,8 @@
+env
+.env
+Blog_generation.egg-info
+env/
+__pycache__/
+logs/
+*.pyc
+test.py
